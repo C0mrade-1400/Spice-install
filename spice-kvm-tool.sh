@@ -34,6 +34,7 @@ while true; do
 
     echo "=========================="
     echo " SPICE + KVM Setup Tool"
+    echo " THIS IS A REPO MADE BY C0mrade-1400 
     echo "=========================="
     echo "1) Setup Host"
     echo "2) Setup Guest VM"
