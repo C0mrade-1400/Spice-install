@@ -25,14 +25,16 @@ Designed for Debian/Ubuntu/Linux Mint systems.
 ---
 
 # Requirements
+* Git installed 
 
-Supported systems:
+* Supported systems:
 
-* Ubuntu
-* Linux Mint
-* Debian
-* Debian Derivatives
-* Untested on other linux distros
+ * Ubuntu
+ * Linux Mint
+ * Debian
+ * Debian Derivatives
+ * Untested on other linux distros
+  
 
 Recommended:
 
@@ -64,16 +66,10 @@ spice-kvm-tool/
 
 ## 1. Clone the Repository
 
-
-### Option 1 — Curl Installer
-
-```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/spice-kvm-tool/main/install.sh)
-```
-### Option 2 — Git Clone
+### Git Clone
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/spice-kvm-tool.git
+git clone https://github.com/C0mrade-1400/Spice-install.git
 cd spice-kvm-tool
 ```
 
